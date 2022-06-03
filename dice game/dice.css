@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(64, 70, 75);
+}
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+h3{
+  font-size: 2rem;
+  font-family: "Sofia", sans-serif;
+  position: relative;
+text-align: center;
+color: aliceblue;
+}
+h2{
+    font-family: 'Lobster Two', cursive;
+    /* font-style: italic; */
+    font-size: 3rem;
+    color: rgb(96, 171, 209);
+    text-align: center;
+    text-shadow: 2px;
+}
+#player1{
+    font-size: 30px;
+    font-family: 'Lobster Two';
+    text-align: center;
+list-style: none;
+position: absolute;
+top: 500px;
+left: 651px;
+color: rgb(255, 255, 255);
+}
+#player2{
+    font-size: 30px;
+    font-family: 'Lobster Two';
+     text-align: center; 
+list-style: none;
+position: absolute;
+top: 500px;
+left: 920px;
+color: white;
+}
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+img{
+    width: 80%;
+    margin-top: 30%;
+}
